@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+.button {
+  color: green;
+  width: 5ex;
+  height: 5ex;
+  font-size: large;
+  border: solid;
+  text-align: center;
+}
+
+.button button {
+  text-align: center;
+}
+
+#screen {
+  text-align: right;
+  font-size: 3em;
+}
+
+#screen-wrapper {
+  width: 24.5ex;
+  border: solid 2px;
+  margin: 2px;
+  
+}
+
+#calculator {
+  background-color: rgb(255, 255, 84);
+  max-width: 70%;
+  max-height: 50ex;
+  text-align: center;
+  padding: 2ex;
+}
+
+header {
+  color: blue;
+  text-align: left;
+}
